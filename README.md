@@ -63,12 +63,12 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=agief-G1A024037&theme=chartreuse-dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=agief-G1A024037&theme=chartreuse-dark&show_icons=true&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=agief-G1A024037&theme=chartreuse-dark&hide_border=false" />
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agief-G1A024037&theme=chartreuse-dark&hide_border=false&langs_count=10" alt="Top Languages" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=agief-G1A024037&theme=chartreuse-dark&hide_border=false&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
